@@ -10,6 +10,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Custom Docker Action
-        uses: your-username/docker-github-action@main
+        uses: ravishandoc/docker-github-action@v1
         with:
           name: "Ravishan"
